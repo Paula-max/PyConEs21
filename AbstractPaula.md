@@ -1,0 +1,11 @@
+**Abstract**
+
+Esclavismo, machismo, segregacionismo,capacitismo, migración forzosa, lgtbifobia...
+
+Los sesgos, la discriminación y desigualdad son parte de nuestro ADN como especie. Ahora, en la era de la tecnología y la automatización se nos presenta un nuevo escenario donde poder expresar estos genes. 
+
+Nos encontramos ante modelos discriminatorios que tinen detrás grupos de desarrollo poco o nada diversos, acceso inicuo a herremientas y conocimientos y un uso de datos sesgados.
+
+En este punto, como en casi todos los de la vida, toca tomar una decisión: mantener el injusto impacto de los algoritmos o entender que estamos ante un problema social que se agrava cada día del que somos, sin duda, parte de la solución. 
+
+Explicaicón psicosocial del problema, ténicas de Explanaible Artificial Intelligence y técnicas de Fairness Artificial Intelligence, ¿te apuntas?
